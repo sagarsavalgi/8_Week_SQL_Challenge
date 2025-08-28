@@ -30,7 +30,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
     4. Table Joins
 
 ***View the case study [here](https://8weeksqlchallenge.com/case-study-1/) and my solution 
-  [here](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/blob/main/Week%20%231%20-%20Danny's%20Diner/SolutionSyntax.sql).***
+  [here](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Week%20%231%20-%20Danny's%20Diner#-my-solution).***
 
 ---
 ## 🍕 Case Study #2 - Pizza Runner
