@@ -421,7 +421,3 @@ WITH ranking_cte AS
 | C           | 2021-01-01 | ramen        | 12    | N       | NULL    |
 | C           | 2021-01-07 | ramen        | 12    | N       | NULL    |
 
-
-## 🚀 My Solution
-
-* View the complete syntax [HERE](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/syntax.sql)
