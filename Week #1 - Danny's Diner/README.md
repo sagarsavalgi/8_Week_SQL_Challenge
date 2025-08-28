@@ -40,7 +40,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ---
 ## 🚀 My Solution
-*View the complete syntax [HERE]()*
+*View the complete syntax [HERE](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/blob/main/Week%20%231%20-%20Danny's%20Diner/SolutionSyntax.sql)*
   
 ### Q1. What is the total amount each customer spent at the restaurant?
 ```TSQL
