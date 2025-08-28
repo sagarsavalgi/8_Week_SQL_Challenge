@@ -3,14 +3,14 @@
 <img src="https://github.com/sagarsavalgi/8_Week_SQL_Challenge/blob/main/IMG/%231-thumbnail.png" align="center" width="400" height="400" >
   
 ## 📕 Table of Contents
-* [Bussiness Task](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#%EF%B8%8F-bussiness-task)
-* [Entity Relationship Diagram](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#-entity-relationship-diagram)
-* [Case Study Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#-case-study-questions)
-* [Bonus Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#%EF%B8%8F-bonus-questions)
-* [My Solution](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner#-my-solution)
+* [Business Task](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#%EF%B8%8F-business-task)
+* [Entity Relationship Diagram](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#-entity-relationship-diagram)
+* [Case Study Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#-case-study-questions)
+* [Bonus Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#%EF%B8%8F-bonus-questions)
+* [My Solution](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#-my-solution)
 
 ---
-## 🛠️ Bussiness Task
+## 🛠️ Business Task
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
 ---
@@ -39,7 +39,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ---
 ## 🚀 My Solution
-*View the complete syntax [HERE](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/syntax.sql)*
+*View the complete syntax [HERE]()*
   
 ### Q1. What is the total amount each customer spent at the restaurant?
 ```TSQL
