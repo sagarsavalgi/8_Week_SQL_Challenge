@@ -3,11 +3,12 @@
 <img src="https://github.com/sagarsavalgi/8_Week_SQL_Challenge/blob/main/IMG/%231-thumbnail.png" align="center" width="400" height="400" >
   
 ## 📕 Table of Contents
-* [Business Task](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#%EF%B8%8F-business-task)
-* [Entity Relationship Diagram](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#-entity-relationship-diagram)
-* [Case Study Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#-case-study-questions)
-* [Bonus Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#%EF%B8%8F-bonus-questions)
-* [My Solution](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/edit/main/Week%20%231%20-%20Danny's%20Diner/README.md#-my-solution)
+* [Business Task](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Week%20%231%20-%20Danny's%20Diner#%EF%B8%8F-business-task)
+* [Entity Relationship Diagram](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Week%20%231%20-%20Danny's%20Diner#-entity-relationship-diagram
+)
+* [Case Study Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Week%20%231%20-%20Danny's%20Diner#-case-study-questions)
+* [Bonus Questions](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Week%20%231%20-%20Danny's%20Diner#%EF%B8%8F-bonus-questions)
+* [My Solution](https://github.com/sagarsavalgi/8_Week_SQL_Challenge/tree/main/Week%20%231%20-%20Danny's%20Diner#-my-solution)
 
 ---
 ## 🛠️ Business Task
